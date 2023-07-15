@@ -3,3 +3,5 @@
 --  b.	возрастания;
 
 USE products_bd;
+SELECT * FROM staff ORDER BY salary DESC;
+SELECT * FROM staff ORDER BY salary;
